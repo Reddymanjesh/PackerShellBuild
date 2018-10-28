@@ -1,3 +1,5 @@
 # PackerShellBuild
 
-The repo contains packer build sample with shell script as a userdata.
+The repo contains packer build with different provisioning means.
+      1) Shell script (script.sh)
+      2) Ansible Playbook (playbook.yml)
